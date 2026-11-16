@@ -18,7 +18,7 @@ public class Produto {
             this.quantidade -= qtd;
             return true;
         }
-        return false; // Retirada recusada se superior ao saldo ou inválida
+        return false;
     }
 
     public int consultarSaldo() {
