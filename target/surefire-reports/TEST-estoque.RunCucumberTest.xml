@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="estoque.RunCucumberTest" time="0.376" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="estoque.RunCucumberTest" time="0.429" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="25"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/local/sdkman/candidates/java/25.0.5.0+2-ms/lib"/>
-    <property name="sun.java.command" value="/workspaces/Controle-De-Estoque/target/surefire/surefirebooter-20261117000246800_3.jar /workspaces/Controle-De-Estoque/target/surefire 2026-11-17T00-02-46_579-jvmRun1 surefire-20261117000246800_1tmp surefire_0-20261117000246800_2tmp"/>
+    <property name="sun.java.command" value="/workspaces/Controle-De-Estoque/target/surefire/surefirebooter-20261117003150897_3.jar /workspaces/Controle-De-Estoque/target/surefire 2026-11-17T00-31-50_698-jvmRun1 surefire-20261117003150897_1tmp surefire_0-20261117003150897_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/workspaces/Controle-De-Estoque/target/test-classes:/workspaces/Controle-De-Estoque/target/classes:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/home/codespace/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-java/7.15.0/cucumber-java-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-core/7.15.0/cucumber-core-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-gherkin/7.15.0/cucumber-gherkin-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.15.0/cucumber-gherkin-messages-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/gherkin/26.2.0/gherkin-26.2.0.jar:/home/codespace/.m2/repository/io/cucumber/messages/22.0.0/messages-22.0.0.jar:/home/codespace/.m2/repository/io/cucumber/tag-expressions/6.0.0/tag-expressions-6.0.0.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-expressions/17.0.1/cucumber-expressions-17.0.1.jar:/home/codespace/.m2/repository/io/cucumber/datatable/7.15.0/datatable-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-plugin/7.15.0/cucumber-plugin-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/docstring/7.15.0/docstring-7.15.0.jar:/home/codespace/.m2/repository/io/cucumber/html-formatter/20.4.0/html-formatter-20.4.0.jar:/home/codespace/.m2/repository/io/cucumber/junit-xml-formatter/0.2.0/junit-xml-formatter-0.2.0.jar:/home/codespace/.m2/repository/io/cucumber/ci-environment/10.0.0/ci-environment-10.0.0.jar:/home/codespace/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/codespace/.m2/repository/io/cucumber/cucumber-junit-platform-engine/7.15.0/cucumber-junit-platform-engine-7.15.0.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-suite/1.10.2/junit-platform-suite-1.10.2.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-suite-api/1.10.2/junit-platform-suite-api-1.10.2.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-suite-engine/1.10.2/junit-platform-suite-engine-1.10.2.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-suite-commons/1.10.2/junit-platform-suite-commons-1.10.2.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/workspaces/Controle-De-Estoque/target/surefire/surefirebooter-20261117000246800_3.jar"/>
+    <property name="surefire.real.class.path" value="/workspaces/Controle-De-Estoque/target/surefire/surefirebooter-20261117003150897_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.5.0.2+1-LTS"/>
     <property name="user.name" value="codespace"/>
@@ -54,7 +54,30 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="Entrada de produtos" classname="Controle de Estoque" time="0.203"/>
-  <testcase name="Saída com saldo suficiente" classname="Controle de Estoque" time="0.007"/>
-  <testcase name="Saída com saldo insuficiente" classname="Controle de Estoque" time="0.007"/>
+  <testcase name="Entrada de produtos" classname="Controle de Estoque" time="0.182">
+    <system-out><![CDATA[
+Cenário: Entrada de produtos                                 &amp#27;[90m# estoque/controle_estoque.feature:6&amp#27;[0m
+  &amp#27;[32mDado &amp#27;[0m&amp#27;[32mque o produto &amp#27;[0m&amp#27;[32m&amp#27;[1m"Monitor"&amp#27;[0m&amp#27;[32m possui &amp#27;[0m&amp#27;[32m&amp#27;[1m10&amp#27;[0m&amp#27;[32m unidades em estoque&amp#27;[0m &amp#27;[90m# estoque.EstoqueSteps.que_o_produto_possui_unidades_em_estoque(java.lang.String,int)&amp#27;[0m
+  &amp#27;[32mQuando &amp#27;[0m&amp#27;[32meu adiciono &amp#27;[0m&amp#27;[32m&amp#27;[1m5&amp#27;[0m&amp#27;[32m unidades ao estoque&amp#27;[0m                   &amp#27;[90m# estoque.EstoqueSteps.eu_adiciono_unidades_ao_estoque(int)&amp#27;[0m
+  &amp#27;[32mEntão &amp#27;[0m&amp#27;[32mo saldo do estoque deve ser &amp#27;[0m&amp#27;[32m&amp#27;[1m15&amp#27;[0m&amp#27;[32m unidades&amp#27;[0m              &amp#27;[90m# estoque.EstoqueSteps.o_saldo_do_estoque_deve_ser_unidades(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Saída com saldo suficiente" classname="Controle de Estoque" time="0.017">
+    <system-out><![CDATA[
+Cenário: Saída com saldo suficiente                          &amp#27;[90m# estoque/controle_estoque.feature:11&amp#27;[0m
+  &amp#27;[32mDado &amp#27;[0m&amp#27;[32mque o produto &amp#27;[0m&amp#27;[32m&amp#27;[1m"Monitor"&amp#27;[0m&amp#27;[32m possui &amp#27;[0m&amp#27;[32m&amp#27;[1m10&amp#27;[0m&amp#27;[32m unidades em estoque&amp#27;[0m &amp#27;[90m# estoque.EstoqueSteps.que_o_produto_possui_unidades_em_estoque(java.lang.String,int)&amp#27;[0m
+  &amp#27;[32mQuando &amp#27;[0m&amp#27;[32meu solicito a retirada de &amp#27;[0m&amp#27;[32m&amp#27;[1m4&amp#27;[0m&amp#27;[32m unidades&amp#27;[0m                &amp#27;[90m# estoque.EstoqueSteps.eu_solicito_a_retirada_de_unidades(int)&amp#27;[0m
+  &amp#27;[32mEntão &amp#27;[0m&amp#27;[32ma retirada deve ser aprovada&amp#27;[0m                         &amp#27;[90m# estoque.EstoqueSteps.a_retirada_deve_ser_aprovada()&amp#27;[0m
+  &amp#27;[32mE &amp#27;[0m&amp#27;[32mo saldo do estoque deve ser &amp#27;[0m&amp#27;[32m&amp#27;[1m6&amp#27;[0m&amp#27;[32m unidades&amp#27;[0m                   &amp#27;[90m# estoque.EstoqueSteps.o_saldo_do_estoque_deve_ser_unidades(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Saída com saldo insuficiente" classname="Controle de Estoque" time="0.015">
+    <system-out><![CDATA[
+Cenário: Saída com saldo insuficiente                        &amp#27;[90m# estoque/controle_estoque.feature:17&amp#27;[0m
+  &amp#27;[32mDado &amp#27;[0m&amp#27;[32mque o produto &amp#27;[0m&amp#27;[32m&amp#27;[1m"Monitor"&amp#27;[0m&amp#27;[32m possui &amp#27;[0m&amp#27;[32m&amp#27;[1m10&amp#27;[0m&amp#27;[32m unidades em estoque&amp#27;[0m &amp#27;[90m# estoque.EstoqueSteps.que_o_produto_possui_unidades_em_estoque(java.lang.String,int)&amp#27;[0m
+  &amp#27;[32mQuando &amp#27;[0m&amp#27;[32meu solicito a retirada de &amp#27;[0m&amp#27;[32m&amp#27;[1m15&amp#27;[0m&amp#27;[32m unidades&amp#27;[0m               &amp#27;[90m# estoque.EstoqueSteps.eu_solicito_a_retirada_de_unidades(int)&amp#27;[0m
+  &amp#27;[32mEntão &amp#27;[0m&amp#27;[32ma retirada deve ser recusada&amp#27;[0m                         &amp#27;[90m# estoque.EstoqueSteps.a_retirada_deve_ser_recusada()&amp#27;[0m
+  &amp#27;[32mE &amp#27;[0m&amp#27;[32mo saldo do estoque deve ser &amp#27;[0m&amp#27;[32m&amp#27;[1m10&amp#27;[0m&amp#27;[32m unidades&amp#27;[0m                  &amp#27;[90m# estoque.EstoqueSteps.o_saldo_do_estoque_deve_ser_unidades(int)&amp#27;[0m
+]]></system-out>
+  </testcase>
 </testsuite>
