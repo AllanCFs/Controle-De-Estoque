@@ -1,3 +1,4 @@
+# language: pt
 Funcionalidade: Controle de Estoque
   Uma loja precisa registrar entradas e saidas de produtos,
   consulta o saldo e impedir retiradas acima da quantidade disponivel.
